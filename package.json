@@ -1,6 +1,6 @@
 {
   "name": "depa-actor",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "type": "module",
   "main": "./dist/index.js",
   "module": "./dist/index.js",
@@ -24,5 +24,13 @@
   "devDependencies": {
     "typescript": "^5.8.3"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seerkong/depa-actor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seerkong/depa-actor/issues"
+  },
+  "homepage": "https://github.com/seerkong/depa-actor#readme",
   "license": "MIT"
 }
